@@ -1,0 +1,8 @@
+/Users/tamela/Desktop/Algorithims/MiddleCharInString/bin/Debug/netcoreapp1.1/MiddleCharInString.deps.json
+/Users/tamela/Desktop/Algorithims/MiddleCharInString/bin/Debug/netcoreapp1.1/MiddleCharInString.runtimeconfig.json
+/Users/tamela/Desktop/Algorithims/MiddleCharInString/bin/Debug/netcoreapp1.1/MiddleCharInString.runtimeconfig.dev.json
+/Users/tamela/Desktop/Algorithims/MiddleCharInString/bin/Debug/netcoreapp1.1/MiddleCharInString.dll
+/Users/tamela/Desktop/Algorithims/MiddleCharInString/bin/Debug/netcoreapp1.1/MiddleCharInString.pdb
+/Users/tamela/Desktop/Algorithims/MiddleCharInString/obj/Debug/netcoreapp1.1/MiddleCharInString.AssemblyInfo.cs
+/Users/tamela/Desktop/Algorithims/MiddleCharInString/obj/Debug/netcoreapp1.1/MiddleCharInString.dll
+/Users/tamela/Desktop/Algorithims/MiddleCharInString/obj/Debug/netcoreapp1.1/MiddleCharInString.pdb
